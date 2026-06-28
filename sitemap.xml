@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://www.
-barrybillcliff.ai
-/</loc>
-System.Object[]
+    <loc>https://www.barrybillcliff.ai/</loc>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/automotive-autumn-archive.jpg</image:loc><image:title>Barry Billcliff Automotive Autumn Archive</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/automotive-lifestyle-archive.jpg</image:loc><image:title>Barry Billcliff Automotive Lifestyle Archive</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/aviation-hero.jpg</image:loc><image:title>Barry Billcliff Aviation Hero</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/aviation-runway.jpg</image:loc><image:title>Barry Billcliff Aviation Runway</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/business-planning.jpg</image:loc><image:title>Barry Billcliff Business Planning</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/grand-canyon-overlook-adventure.jpg</image:loc><image:title>Barry Billcliff Grand Canyon Overlook Adventure</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/grand-canyon-rim-portrait-adventure.jpg</image:loc><image:title>Barry Billcliff Grand Canyon Rim Portrait Adventure</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/live-event-production-platform-archive.jpg</image:loc><image:title>Barry Billcliff Live Event Production Platform Archive</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/marina-boating-group-adventure.jpg</image:loc><image:title>Barry Billcliff Marina Boating Group Adventure</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/media-interview-production-archive.jpg</image:loc><image:title>Barry Billcliff Media Interview Production Archive</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/motorsports-event-archive.jpg</image:loc><image:title>Barry Billcliff Motorsports Event Archive</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/off-road-atv-trail-adventure.jpg</image:loc><image:title>Barry Billcliff Off Road Atv Trail Adventure</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/private-jet-aviation-profile.jpg</image:loc><image:title>Barry Billcliff Private Jet Aviation Profile</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/private-jet-boarding-video-still.jpg</image:loc><image:title>Barry Billcliff Private Jet Boarding Video Still</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/public-records-desk.jpg</image:loc><image:title>Barry Billcliff Public Records Desk</image:title></image:image>
+    <image:image><image:loc>https://www.barrybillcliff.ai/assets/sports-broadcast-event-archive.jpg</image:loc><image:title>Barry Billcliff Sports Broadcast Event Archive</image:title></image:image>
   </url>
 </urlset>
