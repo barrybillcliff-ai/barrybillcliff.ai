@@ -31,6 +31,7 @@
     <nav aria-label="Primary navigation">
       <a href="#projects">Overview</a>
       <a href="#ai">Systems</a>
+      <a href="#followup">Follow-up</a>
       <a href="#platforms">Platforms</a>
       <a href="#archive">Archive</a>
     </nav>
@@ -53,13 +54,13 @@
     <section class="proof-strip" aria-label="Barry Billcliff AI project archive highlights">
       <article><span>01</span><strong>Field Reporting</strong><p>Photo, voice, notes, job details, and AI-assisted report generation.</p></article>
       <article><span>02</span><strong>Voice Automation</strong><p>Inbound calls, follow-up calls, scheduling, summaries, and customer files.</p></article>
-      <article><span>03</span><strong>Workflow Integration</strong><p>Roofing proposals, customer context, reviews, collections, and office handoffs.</p></article>
+      <article><span>03</span><strong>Workflow Integration</strong><p>Roofing proposals, customer context, reviews, collections, seasonal lists, and office handoffs.</p></article>
     </section>
 
     <section id="projects" class="band">
       <p class="kicker">Technology Focus</p>
       <h2>AI systems built around the roofing business, not around a demo.</h2>
-      <p>The strongest technology story for Barry Billcliff is the work built around Merrimack Valley Roofing: an MVR SiteReport field app for structured site visits, AI-assisted report generation, proposal-aware customer follow-up, and custom voice agents that help answer calls, organize files, schedule work, and keep customers moving through the process.</p>
+      <p>The strongest technology story for Barry Billcliff is the work built around Merrimack Valley Roofing: an MVR SiteReport field app for structured site visits, AI-assisted report generation, proposal-aware customer follow-up, and custom voice agents that help answer calls, organize files, schedule work, update callback timing, and keep customers moving through the process.</p>
     </section>
 
     <section id="ai" class="system-grid">
@@ -110,11 +111,43 @@
         <h2>Automating the customer calls that used to consume hours every week.</h2>
         <p>The first assistant component focused on follow-up calls, a task that could take eight to ten hours a week. It was trained around Merrimack Valley Roofing, roofing-industry questions, customer service tone, and the practical goal of bringing the conversation back to how the company could help the customer.</p>
         <p>The system grew into a broader phone workflow: a designated Twilio number, registered so the business line is identified properly, outbound batch calling, inbound call answering, telemarketer filtering, appointment intake, customer summaries, transcripts, and immediate text and email notifications to Barry when a live customer needs attention.</p>
+        <p>As the voice became natural enough to gather customer information on the first incoming call, the workflow expanded. A customer file could start with the inbound call, gain more site-visit context later, then gain even more detail when the proposal PDF was uploaded before follow-up calls began.</p>
       </div>
       <div class="callout-list" aria-label="Voice assistant capabilities">
         <article><strong>Proposal-aware calls</strong><p>PDF proposals can be added so the assistant understands warranty details, dates, foremen, materials, options, techniques, and customer-specific context.</p></article>
         <article><strong>Inbound lead intake</strong><p>The assistant gathers name, phone, address, and problem description, then creates a customer file and supports scheduling a foreman site visit.</p></article>
         <article><strong>Customer lifecycle</strong><p>Follow-up calls, callbacks, review requests, account closeout, and collections calls can be handled with company-specific context.</p></article>
+      </div>
+    </section>
+
+    <section id="followup" class="feature-deep-dive">
+      <p class="kicker">Adaptive Follow-Up Engine</p>
+      <h2>Customer callbacks that change based on the actual conversation.</h2>
+      <div class="feature-grid">
+        <article>
+          <span>01</span>
+          <h3>Two-week cadence</h3>
+          <p>If a call only reaches voicemail, the system keeps the customer on the calendar and follows up about two weeks later with a different version of the same call.</p>
+        </article>
+        <article>
+          <span>02</span>
+          <h3>Human timing requests</h3>
+          <p>If a customer answers and asks for a specific callback time, such as 6:00 PM when someone else is home, the schedule can move to that real requested time.</p>
+        </article>
+        <article>
+          <span>03</span>
+          <h3>Seasonal timing</h3>
+          <p>If a customer wants to wait until fall or agrees on a date like September 15, the next follow-up can be moved to that seasonal start date.</p>
+        </article>
+        <article>
+          <span>04</span>
+          <h3>File movement buttons</h3>
+          <p>Customer files can move between categories, such as active call lists and seasonal lead lists, so the system reflects the current sales reality.</p>
+        </article>
+      </div>
+      <div class="seasonal-note">
+        <strong>Seasonal lead lists</strong>
+        <p>Seasonal work such as gutter cleaning, ice dam removal, and roof shoveling can stay organized for future outreach. Customers can remain in the relevant seasonal list unless they no longer want to work with Merrimack Valley Roofing.</p>
       </div>
     </section>
 
