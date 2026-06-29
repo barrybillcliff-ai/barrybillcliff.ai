@@ -433,6 +433,10 @@ footer {
 }
 
 @media (max-width: 820px) {
+  [id] {
+    scroll-margin-top: 150px;
+  }
+
   .site-header,
   .hero { display: block; }
 
